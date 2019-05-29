@@ -1,7 +1,3 @@
-# 0. Render this document
-
-There are many ways to render markdown documents. To waste as little time as possible, let's all copy and paste this text into https://stackedit.io/. Then click the eye symbol for "reader mode".
-
 # 1. Bash crash course
 Command | Purpose | Example 1 | Example 2
 --- | --- | --- | ---
